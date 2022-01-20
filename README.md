@@ -9,4 +9,4 @@ git push -u origin main
 # 本地已存在的仓库
 git remote add origin git@github.com:qiaoshi123/git-commadn.git
 git branch -M main
-git push -u origin mai
+git push -u origin main
